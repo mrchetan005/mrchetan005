@@ -106,7 +106,7 @@
 
 ###
 
-<a href="https://bewakooof.vercel.app" align="left" target="_blank" rel="reopener noreferrer">
+<a href="https://zee5-cinema.vercel.app/" align="left" target="_blank" rel="reopener noreferrer">
   <img align="left" height="130" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg"  />
 </a>
 
@@ -116,6 +116,6 @@
 
 <h6 align="left">Developed Zee5 Cinema clone.<br>Emphasized performance, user experience, and responsiveness <br>for an efficient and engaging application.</h6>
 
-<a href="https://bewakooof.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
+<a href="https://zee5-cinema.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
 
 ###
