@@ -1,20 +1,20 @@
 <h1 align="center">Hello👋!<br>My Name is Chetan Deshmukh</h1>
 
-###
+
 
 <h4 align="center">🧑‍💻 I'm a Certified Full Stack MERN Developer 🎖️</h4>
 
-###
+
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/zhYSVCirREeIZtONCI/200w.webp?cid=ecf05e47ncx8jnsc53tg34qyj0arxcalesccfvfzvb2txvgq&ep=v1_stickers_search&rid=200w.webp&ct=s"  />
 </div>
 
-###
+
 
 <h3 align="center">Want to hire me ? 👨‍💻</h3>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/chetan005/" target="_blank" rel="reopener noreferrer">
@@ -27,11 +27,11 @@
 
 <hr clear="both">
 
-###
+
 
 <h3 align="center">Skilled in 🧰</h3>
 
-###
+
 
 <br clear="both">
 
@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-###
+
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="48" alt="vscode logo"  />
@@ -78,7 +78,7 @@
   <img src="https://skillicons.dev/icons?i=idea" height="48" alt="intellijidea logo"  />
 </div>
 
-###
+
 
 <hr clear="both">
 
@@ -86,13 +86,13 @@
 
 <br />
 
-###
+
 
 <a href="https://bewakooof.vercel.app" align="left" target="_blank" rel="reopener noreferrer">
   <img align="left" height="130" src="https://play-lh.googleusercontent.com/DAMBDVyBKiDEOsjD2sy4EpGHXvfUABNXpnbLLrc-STtYIgogcuqdRRyjaLJY5vxkAl8"  />
 </a>
 
-###
+
 
 <h4 align="left">Bewakoof Clone 🛍️</h4>
 
@@ -100,17 +100,17 @@
 
 <a href="https://bewakooof.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
 
-###
+
 
 <br clear="both">
 
-###
+
 
 <a href="https://zee5-cinema.vercel.app/" align="left" target="_blank" rel="reopener noreferrer">
   <img align="left" height="130" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg"  />
 </a>
 
-###
+
 
 <h4 align="left">ZEE5 Cinema Clone 🍿</h4>
 
@@ -118,4 +118,3 @@
 
 <a href="https://zee5-cinema.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
 
-###
