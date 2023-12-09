@@ -96,7 +96,7 @@
 
 <h4 align="left">Bewakoof Clone 🛍️</h4>
 
-<h6 align="left">Crafted Bewakoof Shopping App clone.<br>Ensuring an intuitive and responsive user interface,<br>with a focus on performance optimization.</h6>
+<p align="left">Crafted Bewakoof Shopping App clone.<br>Ensuring an intuitive and responsive user interface,<br>with a focus on performance optimization.</p>
 
 <a href="https://bewakooof.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
 
@@ -114,7 +114,7 @@
 
 <h4 align="left">ZEE5 Cinema Clone 🍿</h4>
 
-<h6 align="left">Developed Zee5 Cinema clone.<br>Emphasized performance, user experience, and responsiveness <br>for an efficient and engaging application.</h6>
+<p align="left">Developed Zee5 Cinema clone.<br>Emphasized performance, user experience, and responsiveness <br>for an efficient and engaging application.</p>
 
 <a href="https://zee5-cinema.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
 
