@@ -6,26 +6,49 @@
 
 
 
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/zhYSVCirREeIZtONCI/200w.webp?cid=ecf05e47ncx8jnsc53tg34qyj0arxcalesccfvfzvb2txvgq&ep=v1_stickers_search&rid=200w.webp&ct=s"  />
-</div>
+<hr clear="both">
+
+<h3 align="center">👨‍💻 Most Recent Work 👨‍💻</h3>
+
+<br />
 
 
 
-<h3 align="center">Want to hire me ? 👨‍💻</h3>
+<a href="https://bewakooof.vercel.app" align="left">
+  <img align="left" height="130" src="https://play-lh.googleusercontent.com/DAMBDVyBKiDEOsjD2sy4EpGHXvfUABNXpnbLLrc-STtYIgogcuqdRRyjaLJY5vxkAl8"  />
+</a>
 
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/chetan005/" target="_blank" rel="reopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="48" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mr.chetan005@gmail.com" target="_blank" rel="reopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="48" alt="gmail logo"  />
-  </a>
-</div>
+<h4 align="left">Bewakoof Clone 🛍️</h4>
+<!--
+<p align="left">Crafted Bewakoof Shopping App clone. Ensuring an intuitive and responsive user interface,<br>with a focus on performance optimization.</p>
+-->
+<p>Developed responsive UI components, utilized React hooks for state management,<br />integrated Redux for global state, implemented RESTful API calls.</p>
+<a href="https://bewakooof.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
+
+
+
+<br clear="both">'
+<br clear="both">
+
+
+
+<a href="https://zee5-cinema.vercel.app/" align="left">
+  <img align="left" height="130" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg"  />
+</a>
+
+
+
+<h4 align="left">ZEE5 Cinema Clone 🍿</h4>
+
+<p align="left">Crafted dynamic components with React, employed hooks,<br/> incorporated Redux for seamless state propagation, facilitated API interactions.</p>
+
+<a href="https://zee5-cinema.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
+
 
 <hr clear="both">
+
 
 
 
@@ -79,42 +102,23 @@
 </div>
 
 
-
 <hr clear="both">
 
-<h3 align="center">👨‍💻 Most Recent Work 👨‍💻</h3>
-
-<br />
-
-
-
-<a href="https://bewakooof.vercel.app" align="left" target="_blank" rel="reopener noreferrer">
-  <img align="left" height="130" src="https://play-lh.googleusercontent.com/DAMBDVyBKiDEOsjD2sy4EpGHXvfUABNXpnbLLrc-STtYIgogcuqdRRyjaLJY5vxkAl8"  />
-</a>
+<!--
+<div align="center">
+  <img align="left" height="200" src="https://media4.giphy.com/media/zhYSVCirREeIZtONCI/200w.webp?cid=ecf05e47ncx8jnsc53tg34qyj0arxcalesccfvfzvb2txvgq&ep=v1_stickers_search&rid=200w.webp&ct=s"  />
+</div>
+-->
 
 
+<h3 align="center">Contact me 👨‍💻</h3>
 
-<h4 align="left">Bewakoof Clone 🛍️</h4>
-
-<p align="left">Crafted Bewakoof Shopping App clone.<br>Ensuring an intuitive and responsive user interface,<br>with a focus on performance optimization.</p>
-
-<a href="https://bewakooof.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
-
-
-
-<br clear="both">
-
-
-
-<a href="https://zee5-cinema.vercel.app/" align="left" target="_blank" rel="reopener noreferrer">
-  <img align="left" height="130" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg"  />
-</a>
-
-
-
-<h4 align="left">ZEE5 Cinema Clone 🍿</h4>
-
-<p align="left">Developed Zee5 Cinema clone.<br>Emphasized performance, user experience, and responsiveness <br>for an efficient and engaging application.</p>
-
-<a href="https://zee5-cinema.vercel.app" align="left" target="_blank" rel="reopener noreferrer">See Demo</a>
+<div align="center">
+  <a align="center" href="https://www.linkedin.com/in/chetan005/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="48" alt="linkedin logo"  />
+  </a>
+  <a align="center" href="mailto:mr.chetan005@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="48" alt="gmail logo"  />
+  </a>
+</div>
 
